@@ -2,6 +2,7 @@
     "name": "vad-naitik/image-helper",
     "description": "Image Upload with crop and resize and display image on html page",
     "type": "library",
+    "version": "0.1",
     "license": "MIT",
     "authors": [
         {
