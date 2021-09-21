@@ -9,7 +9,7 @@
             "email": "vad.naitik@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "VadNaitik\\ImageHelper\\": "src/"
