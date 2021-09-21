@@ -1,0 +1,21 @@
+{
+    "name": "vad-naitik/image-helper",
+    "description": "Image Upload with crop and resize and display image on html page",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Naitik Vadgama",
+            "email": "vad.naitik@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "VadNaitik\\ImageHelper\\": "src/"
+        }
+    },
+    "require": {
+
+    }
+}
